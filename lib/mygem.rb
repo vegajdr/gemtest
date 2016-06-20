@@ -6,5 +6,9 @@ class Mygem
     (1...100).to_a.sample
   end
 
+  def my_number
+    50
+  end
+
 
 end
